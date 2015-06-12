@@ -27,7 +27,7 @@
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) Android开发技术前线,定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 
 ## Android开源框架
-### `Square`公司的几个开源项目：
+### Square
 * [Picasso](https://github.com/square/picasso)
 * [Retrofit](https://github.com/square/retrofit)
 * [OkHttp](https://github.com/square/okhttp)

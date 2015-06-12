@@ -8,7 +8,7 @@
 * [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) 作为程序猿，不要仅仅只读编程类书籍
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 非常好的算法书籍，在读中...
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) Github使用技巧[[中文版](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)]
-* [Markdown Here](https://github.com/adam-p/markdown-here) 想快速掌握直接看[Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Here](https://github.com/adam-p/markdown-here) 想快速掌握直接看[[Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)]
 
 ## Awesome
 
@@ -20,10 +20,11 @@
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 
 ## Android
-* [android_guides](https://github.com/codepath/android_guides)Android开发相关文章，非常实用
-* [android-best-practices](https://github.com/futurice/android-best-practices)futurice公司写的Android最佳实践，对于没接触过实际项目的新手非常有帮助
-* [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis)Trinea组织维护的开源项目分析，好久没更新了...
-* [android-open-project](https://github.com/Trinea/android-open-project)也是Trinea大神发起的开源项目，集合了很多非常好的开源项目
+* [android_guides](https://github.com/codepath/android_guides) Android开发相关文章，非常实用
+* [android-best-practices](https://github.com/futurice/android-best-practices) futurice公司写的Android最佳实践，对于没接触过实际项目的新手非常有帮助
+* [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis) Trinea组织维护的开源项目分析，好久没更新了...
+* [android-open-project](https://github.com/Trinea/android-open-project) 也是Trinea大神发起的开源项目，集合了很多非常好的开源项目
+* [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) Android开发技术前线,定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 
 ## Android开源框架
 ### `Square`公司的几个开源项目：

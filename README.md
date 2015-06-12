@@ -8,6 +8,7 @@
 * [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) 作为程序猿，不要仅仅只读编程类书籍
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 非常好的算法书籍，在读中...
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) Github使用技巧[[中文版](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)]
+* [Markdown Here](https://github.com/adam-p/markdown-here) 想快速掌握直接看[Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Awesome
 

@@ -1,4 +1,5 @@
 # Stared-Project
+### *作为一个点赞狂魔，Star了太多项目，找起来非常麻烦，所以还是罗列一下自己赞过的，方便查询*
 
 ## Book
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)免费的计算机编程类中文书籍
@@ -29,6 +30,16 @@
 * [Retrofit](https://github.com/square/retrofit)
 * [OkHttp](https://github.com/square/okhttp)
 * [LeakCanary](https://github.com/square/leakcanary)
+* [Otto](https://github.com/square/otto)
+
+## Java相关
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+* [Algorithms](https://github.com/pedrovgs/Algorithms) Java实现各类算法
+* [fastjson](https://github.com/alibaba/fastjson)
+
+## 其他
+* [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [githug](https://github.com/Gazler/githug) Git 命令行游戏，帮助学习Git
 
 
 

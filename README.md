@@ -14,7 +14,7 @@
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo)
-* [awesome-android](https://github.com/JStumpp/awesome-android)
+* [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses)

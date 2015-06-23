@@ -8,16 +8,18 @@
 * [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) 作为程序猿，不要仅仅只读编程类书籍
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 非常好的算法书籍，在读中...
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) Github使用技巧[[中文版](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)]
-* [Markdown Here](https://github.com/adam-p/markdown-here) 想快速掌握直接看[[Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)]
+* [Markdown Here](https://github.com/adam-p/markdown-here) 想快速掌握**MarkDown**直接看[[Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)]
+* [Pro Git, Second Edition](https://github.com/progit/progit2) 
 
 ## Awesome
-
 * [awesome](https://github.com/sindresorhus/awesome)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [awesome-github-repo](https://github.com/flyhigher139/awesome-github-repo)
 * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 
 ## Android
 * [android_guides](https://github.com/codepath/android_guides) Android开发相关文章，非常实用
@@ -27,13 +29,29 @@
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) Android开发技术前线,定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 
 ## Android开源框架
-### Square
-* [Seven Days of Open Source](https://corner.squareup.com/2013/05/seven-days-of-open-source.html)
 * [Picasso](https://github.com/square/picasso)
 * [Retrofit](https://github.com/square/retrofit)
 * [OkHttp](https://github.com/square/okhttp)
 * [LeakCanary](https://github.com/square/leakcanary)
 * [Otto](https://github.com/square/otto)
+* [Infer](https://github.com/facebook/infer)
+* [Presto](https://github.com/facebook/presto)
+* [AndroidAnnotations](https://github.com/excilys/androidannotations)
+* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+* [android-async-http](https://github.com/loopj/android-async-http)
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+* [EventBus](https://github.com/greenrobot/EventBus)
+* [ButterKnife](https://github.com/JakeWharton/butterknife)
+* [Glide](https://github.com/bumptech/glide)
+* [greenDAO](https://github.com/greenrobot/greenDAO)
+* [xUtils](https://github.com/wyouflf/xUtils)
+* [FastJson](https://github.com/alibaba/fastjson)
+* [afinal](https://github.com/yangfuhai/afinal)
+* [Realm-Java](https://github.com/realm/realm-java)
+* [Robolectric ](https://github.com/robolectric/robolectric)
+* [Mockito ](https://github.com/mockito/mockito)
+* [ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
 
 ## Java相关
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)

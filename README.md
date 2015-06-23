@@ -62,6 +62,13 @@
 * [Algorithms](https://github.com/pedrovgs/Algorithms) Java实现各类算法
 * [fastjson](https://github.com/alibaba/fastjson)
 
+## GoLang
+* [Go](https://github.com/golang/go)
+* [Go Books](https://github.com/dariubs/GoBooks)
+* [Awesome Go](https://github.com/avelino/awesome-go)
+* [wego](https://github.com/schachmat/wego) weather app for the terminal
+* [pholcus](https://github.com/henrylee2cn/pholcus) Pholcus（幽灵蛛）是一款纯Go语言编写的重量级爬虫软件
+
 ## 其他
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 * [githug](https://github.com/Gazler/githug) Git 命令行游戏，帮助学习Git

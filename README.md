@@ -29,29 +29,33 @@
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier) Android开发技术前线,定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 
 ## Android开源框架
-* [Picasso](https://github.com/square/picasso)
-* [Retrofit](https://github.com/square/retrofit)
-* [OkHttp](https://github.com/square/okhttp)
-* [LeakCanary](https://github.com/square/leakcanary)
-* [Otto](https://github.com/square/otto)
-* [Infer](https://github.com/facebook/infer)
-* [Presto](https://github.com/facebook/presto)
-* [AndroidAnnotations](https://github.com/excilys/androidannotations)
-* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
-* [android-async-http](https://github.com/loopj/android-async-http)
-* [RxJava](https://github.com/ReactiveX/RxJava)
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-* [EventBus](https://github.com/greenrobot/EventBus)
-* [ButterKnife](https://github.com/JakeWharton/butterknife)
-* [Glide](https://github.com/bumptech/glide)
-* [greenDAO](https://github.com/greenrobot/greenDAO)
-* [xUtils](https://github.com/wyouflf/xUtils)
-* [FastJson](https://github.com/alibaba/fastjson)
-* [afinal](https://github.com/yangfuhai/afinal)
-* [Realm-Java](https://github.com/realm/realm-java)
-* [Robolectric ](https://github.com/robolectric/robolectric)
-* [Mockito ](https://github.com/mockito/mockito)
-* [ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
+框架名称 | 说明
+--- | ---
+[Picasso](https://github.com/square/picasso) | Image Loader
+[Presto](https://github.com/facebook/presto) | Image Loader
+[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | Image Loader
+[Glide](https://github.com/bumptech/glide) | Image Loader
+[OkHttp](https://github.com/square/okhttp) | Networking
+[android-async-http](https://github.com/loopj/android-async-http) | Networking
+[Retrofit](https://github.com/square/retrofit) | REST
+[EventBus](https://github.com/greenrobot/EventBus) | Event Bus
+[Otto](https://github.com/square/otto) | Event Bus
+[AndroidAnnotations](https://github.com/excilys/androidannotations) | Dependency Injection
+[ButterKnife](https://github.com/JakeWharton/butterknife) | Dependency Injection
+[RxJava](https://github.com/ReactiveX/RxJava) | Reactive Extention
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) | Reactive Extention
+[greenDAO](https://github.com/greenrobot/greenDAO) | ORM
+[Realm-Java](https://github.com/realm/realm-java) | Replace SQLite
+[FastJson](https://github.com/alibaba/fastjson) | Json
+[Gson](http://google-gson.googlecode.com/svn/trunk/) | Json
+[Jackson](https://github.com/FasterXML/jackson) | Json
+[Robolectric ](https://github.com/robolectric/robolectric) | Test
+[Mockito ](https://github.com/mockito/mockito) | Test
+[LeakCanary](https://github.com/square/leakcanary) | Memory Detection
+[Infer](https://github.com/facebook/infer) | Static Analysis Tool
+[xUtils](https://github.com/wyouflf/xUtils) | Dev Framework
+[afinal](https://github.com/yangfuhai/afinal) | Dev Framework
+[ThinkAndroid](https://github.com/white-cat/ThinkAndroid) | Dev Framework
 
 ## Java相关
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)

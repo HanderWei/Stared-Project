@@ -42,6 +42,7 @@
 [Otto](https://github.com/square/otto) | Event Bus
 [AndroidAnnotations](https://github.com/excilys/androidannotations) | Dependency Injection
 [ButterKnife](https://github.com/JakeWharton/butterknife) | Dependency Injection
+[Icepick](https://github.com/frankiesardo/icepick) | Save Instance State
 [RxJava](https://github.com/ReactiveX/RxJava) | Reactive Extention
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) | Reactive Extention
 [greenDAO](https://github.com/greenrobot/greenDAO) | ORM

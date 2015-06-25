@@ -32,7 +32,7 @@
 框架名称 | 说明
 --- | ---:
 [Picasso](https://github.com/square/picasso) | Image Loader
-[Presto](https://github.com/facebook/presto) | Image Loader
+[Fresco](https://github.com/facebook/fresco) | Image Loader
 [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | Image Loader
 [Glide](https://github.com/bumptech/glide) | Image Loader
 [OkHttp](https://github.com/square/okhttp) | Networking
